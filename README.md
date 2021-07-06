@@ -3,7 +3,7 @@
 ## Front-End Engineer 
 ### Hi there 👋
 
-Hello! I am Dev PineTree, a Front-End Engineer in Korea.
+Hello! I am DevPineTree, a Front-End Engineer in Korea.
 
 If you want to contact me💬 , please leave me a message!
 
